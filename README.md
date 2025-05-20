@@ -1,15 +1,14 @@
-## Smart Interactive Weather Dashboard
-
-This interactive weather dashboard demonstrates how modern technology can transform weather forecasting capabilities with minimal development effort. Using Python and industry-standard data visualization tools, this proof-of-concept shows what's possible when we combine real-time global weather data with interactive visualizations.
 
 # Smart Interactive Weather Dashboard
 
 This interactive weather dashboard demonstrates how modern technology can transform weather forecasting capabilities with minimal development effort. Using Python and industry-standard data visualization tools, this proof-of-concept shows what's possible when we combine real-time global weather data with interactive visualizations.
 
-![milwaukee_weather_forecast](https://github.com/user-attachments/assets/f997fae7-4d48-4f3d-a357-bf83532a2baa)
+![Milwaukee_Weather_forecast](/content/milwaukee_weather_forecast.html)
 
 
-![Weather plot](https://github.com/user-attachments/assets/608094bd-57a7-4518-9074-be6219a9adc6)
+*Created with Py![wether plot](https://github.com/user-attachments/assets/698625f3-7c8c-4902-b0da-e42d067ca1bd)
+thenn, Plotly, and OpenWeatherMap API*
+
 
 ## Features
 
@@ -37,9 +36,6 @@ This modern approach offers significant advantages over 10-year-old thermostat t
 
 ---
 
-*Created with Py![wether plot](https://github.com/user-attachments/assets/698625f3-7c8c-4902-b0da-e42d067ca1bd)
-thon, Plotly, and OpenWeatherMap API*
-## Features
 
 - **Real-time weather forecasting** for any city worldwide
 - **Interactive visualization** that allows exploration of weather trends
