@@ -34,7 +34,8 @@ This modern approach offers significant advantages over 10-year-old thermostat t
 
 ---
 
-*Created with Python, Plotly, and OpenWeatherMap API*
+*Created with Py![wether plot](https://github.com/user-attachments/assets/698625f3-7c8c-4902-b0da-e42d067ca1bd)
+thon, Plotly, and OpenWeatherMap API*
 ## Features
 
 - **Real-time weather forecasting** for any city worldwide
