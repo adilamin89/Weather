@@ -6,7 +6,7 @@ This interactive weather dashboard demonstrates how modern technology can transf
 
 This interactive weather dashboard demonstrates how modern technology can transform weather forecasting capabilities with minimal development effort. Using Python and industry-standard data visualization tools, this proof-of-concept shows what's possible when we combine real-time global weather data with interactive visualizations.
 
-
+milwaukee_weather_forecast.png
 
 ## Features
 
