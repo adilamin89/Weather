@@ -6,7 +6,7 @@ This interactive weather dashboard demonstrates how modern technology can transf
 
 This interactive weather dashboard demonstrates how modern technology can transform weather forecasting capabilities with minimal development effort. Using Python and industry-standard data visualization tools, this proof-of-concept shows what's possible when we combine real-time global weather data with interactive visualizations.
 
-
+![Weather plot](https://github.com/user-attachments/assets/608094bd-57a7-4518-9074-be6219a9adc6)
 
 ## Features
 
@@ -63,3 +63,4 @@ This modern approach offers significant advantages over 10-year-old thermostat t
 ---
 
 *Created with Python, Plotly, and OpenWeatherMap API*
+
